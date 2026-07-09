@@ -14,13 +14,13 @@ Desarrollador backend de Argentina. Técnico Superior en Desarrollo de Software 
 
 ## Qué hago
 
-Backend Development · Full‑Stack Applications · AI‑powered Developer Tools · Data‑driven Systems · Software Architecture
+Desarrollo Backend · Aplicaciones Full-Stack · Herramientas para desarrolladores impulsadas por IA · Sistemas basados en datos · Arquitectura de Software
 
 ---
 
 ## Proyectos destacados
 
-- **Skill Radar** — Creador & Lead Developer
+- **Skill Radar** — Creador y Desarrollador Principal
   - Plataforma impulsada por IA para análisis de CVs, evaluación de skills, preparación de entrevistas y seguimiento de progreso profesional.  
   - Tech: Next.js 16, TypeScript, next-intl, integraciones seguras multi‑LLM (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
