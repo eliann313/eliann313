@@ -62,7 +62,6 @@ Per-repo quick badges:
 - GridHub WMS: ![Top language](https://img.shields.io/github/languages/top/Juamp1Sch/WMS) ![Last commit](https://img.shields.io/github/last-commit/Juamp1Sch/WMS)  
 - Pochocleando: ![Top language](https://img.shields.io/github/languages/top/Antonio-sharp-plus/Pochocleando) ![Last commit](https://img.shields.io/github/last-commit/Antonio-sharp-plus/Pochocleando)  
 - PokeApp: ![Top language](https://img.shields.io/github/languages/top/bunicodea/proyecto-pokedex) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/proyecto-pokedex)  
-- Proyecto Final: ![Top language](https://img.shields.io/github/languages/top/bunicodea/Proyecto-Final---Nahuel-Perea) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/Proyecto-Final---Nahuel-Perea)
 
 ---
 
