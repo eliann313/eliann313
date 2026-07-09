@@ -27,7 +27,7 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Currently under active planning (architecture & specs). Planning phase.
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
-- **WMS (private)** — Full‑Stack Developer  
+- **GridHub WMS (private)** — Full‑Stack Developer  
   - Commercial warehouse management MVP. Focused on backend architecture, offline synchronization and automated testing.  
   - Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Vite, Alembic
 
