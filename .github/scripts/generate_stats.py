@@ -10,7 +10,6 @@ REPOS = [
     ('Juamp1Sch','WMS'),
     ('Antonio-sharp-plus','Pochocleando'),
     ('bunicodea','proyecto-pokedex'),
-    ('bunicodea','Proyecto-Final---Nahuel-Perea'),
     ('eliann313','ProyectoInmuebles'),
 ]
 
