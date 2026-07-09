@@ -14,7 +14,7 @@ Backend developer from Argentina. Higher Technician in Software Development • 
 
 ## What I do
 
-Backend Development · Full‑Stack Applications · AI‑powered Developer Tools · Data‑driven Systems · Software Architecture
+Backend Development · Full-Stack Development · AI-Powered Developer Tools · Data-Driven Applications · Software Architecture
 
 ---
 
@@ -39,7 +39,7 @@ Backend Development · Full‑Stack Applications · AI‑powered Developer Tools
   - Repo: https://github.com/Antonio-sharp-plus/Pochocleando
 
 - **PokeApp (Pokedex)** — Full‑Stack Developer  
-  - Learning / demo project for mobile/web development.  
+  - Educational mobile/web application built to explore Ionic, Angular and Firebase.  
   - Tech: Ionic, Angular, Firebase  
   - Repo: https://github.com/bunicodea/proyecto-pokedex
 
