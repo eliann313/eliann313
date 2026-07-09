@@ -1,4 +1,4 @@
-# Elián Nahuel — Backend & Full‑Stack Developer
+# Elian Nahuel — Backend & Full‑Stack Developer
 
 Concise professional snapshot — Backend-focused engineer building production-ready APIs, data-driven applications and AI-assisted features. I design pragmatic architectures and ship reliable services and full‑stack products.
 
