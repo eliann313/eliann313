@@ -40,12 +40,7 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Learning / demo project for mobile/web development.  
   - Tech: Ionic, Angular, Firebase  
   - Repo: https://github.com/bunicodea/proyecto-pokedex
-
-- **Proyecto Final — Nahuel & Elian** — Full‑Stack Developer
-  - Academic final project developed with a teammate.  
-  - Tech: C#, JavaScript, HTML, CSS  
-  - Repo: https://github.com/bunicodea/Proyecto-Final---Nahuel-Perea
-
+  
 ---
 
 ## Currently working with
