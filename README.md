@@ -1,8 +1,8 @@
-![Elián Nahuel](https://img.shields.io/badge/Eli%C3%A1n%20Nahuel-Backend%20Developer%20%7C%20Full--Stack-blue?style=for-the-badge&logo=github)
+![Elián Nahuel](https://img.shields.io/badge/Eli%C3%A1n%20Nahuel-Backend%20Developer-blue?style=flat-square&logo=github)
 
 <!-- Tech badges -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-31648C?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-333333?logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-31648C?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-333333?logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 # Backend Developer | Full‑Stack Developer focused on scalable APIs and modern web applications
 
@@ -16,46 +16,36 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
 
 ---
 
-## 🚀 Currently building
-
-**Skill Radar** — AI-powered platform that helps developers analyze CVs, evaluate technical skills, prepare interviews and measure career progress.  
-Tech: FastAPI, SQLAlchemy, Alembic, React, PostgreSQL, Docker  
-Repo: https://github.com/eliann313/SkillRadar
-
----
-
 ## Featured projects
 
-- **Proyecto Inmuebles** — currently under active planning (architecture & specs).  
-  Tech (planned): FastAPI, React, PostgreSQL  
-  Repo: https://github.com/eliann313/ProyectoInmuebles
+- **Skill Radar** — Lead Developer
+  - AI-powered talent platform for CV analysis, skills evaluation, interview preparation and career progress tracking.  
+  - Tech: Next.js 16, TypeScript, next-intl, secure multi-provider LLM integrations (Gemini, OpenAI, Claude, Groq)  
+  - Repo: https://github.com/eliann313/SkillRadar
 
-- **WMS (private)** — commercial warehouse management MVP focused on backend architecture, offline synchronization and automated testing.
+- **Proyecto Inmuebles** — Full‑Stack Developer (project of 3)  
+  - Currently under active planning (architecture & specs). No code yet — planning phase.
+  - Repo: https://github.com/eliann313/ProyectoInmuebles
 
-- **Pochocleando** — movie discovery platform (academic full‑stack project).  
-  Tech: React Native, Node  
-  Repo: https://github.com/Antonio-sharp-plus/Pochocleando
+- **WMS (private)** — Full‑Stack Developer  
+  - Commercial warehouse management MVP focused on backend architecture, offline synchronization and automated testing.  
+  - Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Vite, Alembic
 
-- **PokeApp (Pokedex)** — learning / demo project for mobile/web development.  
-  Tech: Ionic, Angular  
-  Repo: https://github.com/bunicodea/proyecto-pokedex
+- **Pochocleando** — Full‑Stack Developer  
+  - Movie discovery platform (academic full‑stack project).  
+  - Tech: Angular, Express, MongoDB, JavaScript
+  - Repo: https://github.com/Antonio-sharp-plus/Pochocleando
+
+- **PokeApp (Pokedex)** — Full‑Stack Developer  
+  - Learning / demo project for mobile/web development.  
+  - Tech: Ionic, Angular, Firebase  
+  - Repo: https://github.com/bunicodea/proyecto-pokedex
 
 ---
 
-## Current focus
+## Currently working with
 
-- 🚀 Building Skill Radar (MVP → deploy)  
-- 🏠 Designing Proyecto Inmuebles (architecture & planning)  
-- 📊 Studying Data Science and Machine Learning  
-- 🧩 Improving software architecture & system design
-
----
-
-## Learning
-
-- Machine Learning  
-- System Design  
-- Distributed Systems
+FastAPI · React · PostgreSQL · SQLAlchemy · Docker
 
 ---
 
@@ -75,8 +65,7 @@ Repo: https://github.com/eliann313/SkillRadar
 
 - 🌐 Portfolio: https://elian-nahuel-portfolio.vercel.app/  
 - 💼 LinkedIn: https://www.linkedin.com/in/eliannahuel  
-- 📧 Email: elian.nahuel0348@gmail.com  
-- 🐙 GitHub: https://github.com/eliann313
+- 📧 Email: elian.nahuel0348@gmail.com
 
 ---
 
