@@ -8,7 +8,7 @@ Leer en español: [READMEES.md](./READMEES.md)
 
 # Backend Developer | Full‑Stack Developer focused on scalable APIs and modern web applications
 
-Backend developer from Argentina. Higher Technician in Software Development. I build scalable backend systems, AI-powered developer tools and data-driven applications using modern stacks.
+Backend developer from Argentina. Higher Technician in Software Development • B.Sc. student in Data Science. I build scalable backend systems, AI-powered developer tools and modern data-driven applications.
 
 ---
 
@@ -20,16 +20,16 @@ Backend Development · Full‑Stack Applications · AI‑powered Developer Tools
 
 ## Featured projects
 
-- **Skill Radar** — Lead Developer
+- **Skill Radar** — Creator & Lead Developer
   - AI‑powered talent platform for CV analysis, skills evaluation, interview preparation and career progress tracking.  
   - Tech: Next.js 16, TypeScript, next-intl, secure multi‑provider LLM integrations (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer (project of 3)  
-  - Currently under active planning (architecture & specs). No code yet — planning phase.  
+- **Proyecto Inmuebles** — Full‑Stack Developer  
+  - Currently under active planning (architecture & specs). Planning phase.  
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
-- **GridHub WMS (private)** — Full‑Stack Developer  
+- **GridHub WMS (private)** — Full‑Stack Developer
   - Commercial warehouse management MVP. Focused on backend architecture, offline synchronization and automated testing.  
   - Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Vite, Alembic
 
@@ -56,12 +56,10 @@ FastAPI · React · PostgreSQL · SQLAlchemy
 - ![Followers](./assets/badges/followers.svg)
 - ![Public repos](./assets/badges/public-repos.svg)
 
-Generated stats: [STATS.md](./STATS.md) — updated automatically every 14 days.
 
 Per‑repo quick badges (static SVGs):
 
 - Skill Radar: ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg)  
-- GridHub WMS: ![Top language](./assets/badges/Juamp1Sch-WMS-lang.svg) ![Last commit](./assets/badges/Juamp1Sch-WMS-commit.svg)  
 - Pochocleando: ![Top language](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) ![Last commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg)  
 - PokeApp: ![Top language](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) ![Last commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg)
 
