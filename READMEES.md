@@ -8,7 +8,7 @@ Leer en inglés: [README.md](./README.md)
 
 # Backend Developer | Full‑Stack Developer enfocado en APIs escalables y aplicaciones modernas
 
-Desarrollador backend de Argentina. Técnico Superior en Desarrollo de Software. Construyo sistemas backend escalables, herramientas de desarrollador impulsadas por IA y aplicaciones basadas en datos usando stacks modernos.
+Desarrollador backend de Argentina. Técnico Superior en Desarrollo de Software y estudiante de Licenciatura en Ciencia de datos. Construyo sistemas backend escalables, herramientas de desarrollador impulsadas por IA y aplicaciones basadas en datos usando stacks modernos.
 
 ---
 
@@ -20,12 +20,12 @@ Backend Development · Full‑Stack Applications · AI‑powered Developer Tools
 
 ## Proyectos destacados
 
-- **Skill Radar** — Lead Developer
+- **Skill Radar** — Creador & Lead Developer
   - Plataforma impulsada por IA para análisis de CVs, evaluación de skills, preparación de entrevistas y seguimiento de progreso profesional.  
   - Tech: Next.js 16, TypeScript, next-intl, integraciones seguras multi‑LLM (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer (proyecto de 3)  
+- **Proyecto Inmuebles** — Full‑Stack Developer  
   - Actualmente en fase de planificación activa (arquitectura y especificaciones). Aún no hay código.  
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
@@ -60,8 +60,7 @@ Estadísticas generadas: [STATS.md](./STATS.md) — actualizado automáticamente
 
 Badges por repo (SVGs estáticos):
 
-- Skill Radar: ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg)  
-- GridHub WMS: ![Top language](./assets/badges/Juamp1Sch-WMS-lang.svg) ![Last commit](./assets/badges/Juamp1Sch-WMS-commit.svg)  
+- Skill Radar: ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg)    
 - Pochocleando: ![Top language](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) ![Last commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg)  
 - PokeApp: ![Top language](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) ![Last commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg)
 
