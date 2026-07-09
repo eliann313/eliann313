@@ -2,7 +2,7 @@
 
 <!-- Tech badges -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-31648C?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-333333?logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-31648C?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-333333?logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?logo=c%23&logoColor=white)
 
 # Backend Developer | Full‑Stack Developer focused on scalable APIs and modern web applications
 
@@ -24,7 +24,7 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Repo: https://github.com/eliann313/SkillRadar
 
 - **Proyecto Inmuebles** — Full‑Stack Developer (project of 3)  
-  - Currently under active planning (architecture & specs). No code yet — planning phase.
+  - Currently under active planning (architecture & specs). No code yet — planning phase.  
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
 - **GridHub WMS (private)** — Full‑Stack Developer  
@@ -33,7 +33,7 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
 
 - **Pochocleando** — Full‑Stack Developer  
   - Movie discovery platform (academic full‑stack project).  
-  - Tech: Angular, Express, MongoDB, JavaScript
+  - Tech: Angular, Express, MongoDB, JavaScript  
   - Repo: https://github.com/Antonio-sharp-plus/Pochocleando
 
 - **PokeApp (Pokedex)** — Full‑Stack Developer  
@@ -41,11 +41,16 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Tech: Ionic, Angular, Firebase  
   - Repo: https://github.com/bunicodea/proyecto-pokedex
 
+- **Proyecto Final — Nahuel & Elian** — Full‑Stack Developer
+  - Academic final project developed with a teammate.  
+  - Tech: C#, JavaScript, HTML, CSS  
+  - Repo: https://github.com/bunicodea/Proyecto-Final---Nahuel-Perea
+
 ---
 
 ## Currently working with
 
-FastAPI · React · PostgreSQL · SQLAlchemy · Docker
+FastAPI · React · PostgreSQL · SQLAlchemy
 
 ---
 
@@ -53,17 +58,16 @@ FastAPI · React · PostgreSQL · SQLAlchemy · Docker
 
 (Using stable shields.io badges and per-repo top-language / last-commit badges as a reliable alternative to dynamic widgets.)
 
-- ![Followers](https://img.shields.io/github/followers/eliann313?style=social)
-- ![Public repos](https://img.shields.io/github/repos/eliann313)
+- ![Followers](https://img.shields.io/github/followers/eliann313?style=social)  
+- ![Public repos](https://img.shields.io/badge/public%20repos-—-blue)
 
 Per-repo quick badges:
 
-- Skill Radar: ![Top language](https://img.shields.io/github/languages/top/eliann313/SkillRadar) ![Last commit](https://img.shields.io/github/last-commit/eliann313/SkillRadar)
-- GridHub WMS: ![Top language](https://img.shields.io/github/languages/top/Juamp1Sch/WMS) ![Last commit](https://img.shields.io/github/last-commit/Juamp1Sch/WMS)
-- Pochocleando: ![Top language](https://img.shields.io/github/languages/top/Antonio-sharp-plus/Pochocleando) ![Last commit](https://img.shields.io/github/last-commit/Antonio-sharp-plus/Pochocleando)
-- PokeApp: ![Top language](https://img.shields.io/github/languages/top/bunicodea/proyecto-pokedex) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/proyecto-pokedex)
-
-If any of these repos are private or the service can't access them, the badges will show accordingly; still, shields.io is far more reliable than the dynamic widgets.
+- Skill Radar: ![Top language](https://img.shields.io/github/languages/top/eliann313/SkillRadar) ![Last commit](https://img.shields.io/github/last-commit/eliann313/SkillRadar)  
+- GridHub WMS: ![Top language](https://img.shields.io/github/languages/top/Juamp1Sch/WMS) ![Last commit](https://img.shields.io/github/last-commit/Juamp1Sch/WMS)  
+- Pochocleando: ![Top language](https://img.shields.io/github/languages/top/Antonio-sharp-plus/Pochocleando) ![Last commit](https://img.shields.io/github/last-commit/Antonio-sharp-plus/Pochocleando)  
+- PokeApp: ![Top language](https://img.shields.io/github/languages/top/bunicodea/proyecto-pokedex) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/proyecto-pokedex)  
+- Proyecto Final: ![Top language](https://img.shields.io/github/languages/top/bunicodea/Proyecto-Final---Nahuel-Perea) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/Proyecto-Final---Nahuel-Perea)
 
 ---
 
