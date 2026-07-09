@@ -53,19 +53,17 @@ FastAPI · React · PostgreSQL · SQLAlchemy
 
 ## GitHub badges & quick stats
 
-(Using stable shields.io badges and per‑repo top‑language / last‑commit badges as a reliable alternative to dynamic widgets.)
-
-- ![Followers](https://img.shields.io/github/followers/eliann313?style=social)  
-- ![Public repos](https://img.shields.io/github/repos/eliann313)
+- ![Followers](./assets/badges/followers.svg)
+- ![Public repos](./assets/badges/public-repos.svg)
 
 Generated stats: [STATS.md](./STATS.md) — updated automatically every 14 days.
 
-Per‑repo quick badges:
+Per‑repo quick badges (static SVGs):
 
-- Skill Radar: ![Top language](https://img.shields.io/github/languages/top/eliann313/SkillRadar) ![Last commit](https://img.shields.io/github/last-commit/eliann313/SkillRadar)  
-- GridHub WMS: ![Top language](https://img.shields.io/github/languages/top/Juamp1Sch/WMS) ![Last commit](https://img.shields.io/github/last-commit/Juamp1Sch/WMS)  
-- Pochocleando: ![Top language](https://img.shields.io/github/languages/top/Antonio-sharp-plus/Pochocleando) ![Last commit](https://img.shields.io/github/last-commit/Antonio-sharp-plus/Pochocleando)  
-- PokeApp: ![Top language](https://img.shields.io/github/languages/top/bunicodea/proyecto-pokedex) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/proyecto-pokedex)
+- Skill Radar: ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg)  
+- GridHub WMS: ![Top language](./assets/badges/Juamp1Sch-WMS-lang.svg) ![Last commit](./assets/badges/Juamp1Sch-WMS-commit.svg)  
+- Pochocleando: ![Top language](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) ![Last commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg)  
+- PokeApp: ![Top language](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) ![Last commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg)
 
 ---
 
