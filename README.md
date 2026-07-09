@@ -23,12 +23,12 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Tech: Next.js 16, TypeScript, next-intl, secure multi-provider LLM integrations (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer (project of 3)  
-  - Currently under active planning (architecture & specs). No code yet — planning phase.
+- **Proyecto Inmuebles** — Full‑Stack Developer  
+  - Currently under active planning (architecture & specs). Planning phase.
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
 - **WMS (private)** — Full‑Stack Developer  
-  - Commercial warehouse management MVP focused on backend architecture, offline synchronization and automated testing.  
+  - Commercial warehouse management MVP. Focused on backend architecture, offline synchronization and automated testing.  
   - Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Vite, Alembic
 
 - **Pochocleando** — Full‑Stack Developer  
@@ -45,7 +45,7 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
 
 ## Currently working with
 
-FastAPI · React · PostgreSQL · SQLAlchemy · Docker
+FastAPI · React · PostgreSQL · SQLAlchemy
 
 ---
 
