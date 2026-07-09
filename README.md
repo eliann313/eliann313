@@ -23,8 +23,8 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
   - Tech: Next.js 16, TypeScript, next-intl, secure multi-provider LLM integrations (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer  
-  - Currently under active planning (architecture & specs). Planning phase.
+- **Proyecto Inmuebles** — Full‑Stack Developer (project of 3)  
+  - Currently under active planning (architecture & specs). No code yet — planning phase.
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
 - **GridHub WMS (private)** — Full‑Stack Developer  
@@ -45,19 +45,25 @@ Backend Development · Full‑Stack Applications · AI-powered Developer Tools �
 
 ## Currently working with
 
-FastAPI · React · PostgreSQL · SQLAlchemy
+FastAPI · React · PostgreSQL · SQLAlchemy · Docker
 
 ---
 
-## GitHub stats
+## GitHub badges & quick stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliann313&show_icons=true&theme=default)
+(Using stable shields.io badges and per-repo top-language / last-commit badges as a reliable alternative to dynamic widgets.)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliann313&layout=compact)
+- ![Followers](https://img.shields.io/github/followers/eliann313?style=social)
+- ![Public repos](https://img.shields.io/github/repos/eliann313)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliann313)
+Per-repo quick badges:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=eliann313&color=blue)
+- Skill Radar: ![Top language](https://img.shields.io/github/languages/top/eliann313/SkillRadar) ![Last commit](https://img.shields.io/github/last-commit/eliann313/SkillRadar)
+- GridHub WMS: ![Top language](https://img.shields.io/github/languages/top/Juamp1Sch/WMS) ![Last commit](https://img.shields.io/github/last-commit/Juamp1Sch/WMS)
+- Pochocleando: ![Top language](https://img.shields.io/github/languages/top/Antonio-sharp-plus/Pochocleando) ![Last commit](https://img.shields.io/github/last-commit/Antonio-sharp-plus/Pochocleando)
+- PokeApp: ![Top language](https://img.shields.io/github/languages/top/bunicodea/proyecto-pokedex) ![Last commit](https://img.shields.io/github/last-commit/bunicodea/proyecto-pokedex)
+
+If any of these repos are private or the service can't access them, the badges will show accordingly; still, shields.io is far more reliable than the dynamic widgets.
 
 ---
 
