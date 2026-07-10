@@ -55,6 +55,7 @@ FastAPI · React · PostgreSQL · SQLAlchemy
 
 - ![Followers](./assets/badges/followers.svg)
 - ![Public repos](./assets/badges/public-repos.svg)
+- [![SkillRadar](https://skillradar-app.vercel.app/api/badge/eliann313)](https://skillradar-app.vercel.app/u/eliann313)
 
 
 Per‑repo quick badges (static SVGs):
