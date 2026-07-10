@@ -75,3 +75,5 @@ Badges por repo (SVGs estáticos):
 ---
 
 Apasionado por el desarrollo backend, la arquitectura limpia y el aprendizaje continuo. Abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.
+
+- [![SkillRadar](https://skillradar-app.vercel.app/api/badge/eliann313)](https://skillradar-app.vercel.app/u/eliann313)
