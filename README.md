@@ -47,7 +47,7 @@ Backend Development · Full-Stack Development · AI-Powered Developer Tools · D
 
 ## Currently working with
 
-FastAPI · React · PostgreSQL · SQLAlchemy
+Python · FastAPI · React · PostgreSQL · Next.js · TypeScript
 
 ---
 
