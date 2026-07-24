@@ -21,48 +21,46 @@ Desarrollo Backend · Aplicaciones Full-Stack · Herramientas para desarrollador
 ## Proyectos destacados
 
 - **Skill Radar** — Creador y Desarrollador Principal
-  - Plataforma impulsada por IA para análisis de CVs, evaluación de skills, preparación de entrevistas y seguimiento de progreso profesional.  
-  - Tech: Next.js 16, TypeScript, next-intl, integraciones seguras multi‑LLM (Gemini, OpenAI, Claude, Groq)  
+  - Plataforma impulsada por IA para análisis de CVs, evaluación de habilidades, preparación de entrevistas y seguimiento del progreso profesional.  
+  - Tech: Next.js 16, TypeScript, next-intl, integraciones seguras de LLM multi-proveedor (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer  
-  - Actualmente en fase de planificación activa (arquitectura y especificaciones). Aún no hay código.  
+- **Proyecto Inmuebles** — Desarrollador Full‑Stack  
+  - Actualmente en fase activa de planificación (arquitectura y especificaciones).  
   - Repo: https://github.com/eliann313/ProyectoInmuebles
 
-- **GridHub WMS (privado)** — Full‑Stack Developer  
-  - MVP de gestión de almacenes comercial. Enfoque en arquitectura backend, sincronización offline y testing automatizado.  
+- **GridHub WMS (privado)** — Desarrollador Full‑Stack  
+  - MVP comercial de gestión de depósitos/logística. Enfocado en arquitectura backend, sincronización offline y testing automatizado.  
   - Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Vite, Alembic
 
-- **Pochocleando** — Full‑Stack Developer  
-  - Plataforma de descubrimiento de películas (proyecto académico).  
+- **Pochocleando** — Desarrollador Full‑Stack  
+  - Plataforma de descubrimiento de películas (proyecto académico full‑stack).  
   - Tech: Angular, Express, MongoDB, JavaScript  
   - Repo: https://github.com/Antonio-sharp-plus/Pochocleando
 
-- **PokeApp (Pokedex)** — Full‑Stack Developer  
-  - Proyecto de aprendizaje / demo para mobile/web.  
+- **PokeApp (Pokedex)** — Desarrollador Full‑Stack  
+  - Aplicación móvil/web educativa construida para explorar Ionic, Angular y Firebase.  
   - Tech: Ionic, Angular, Firebase  
   - Repo: https://github.com/bunicodea/proyecto-pokedex
 
 ---
 
-## Tecnologías con las que trabajo actualmente
+## Actualmente trabajando con
 
-FastAPI · React · PostgreSQL · SQLAlchemy
+Python · FastAPI · React · PostgreSQL · Next.js · TypeScript
 
 ---
 
-## Badges de GitHub y estadísticas rápidas
+## Badges de GitHub & estadísticas rápidas
 
-- ![Followers](./assets/badges/followers.svg)  
-- ![Public repos](./assets/badges/public-repos.svg)
+- ![Seguidores](./assets/badges/followers.svg)
+- ![Repositorios públicos](./assets/badges/public-repos.svg)
 
-Estadísticas generadas: [STATS.md](./STATS.md) — actualizado automáticamente cada 14 días.
+Badges rápidos por repositorio:
 
-Badges por repo (SVGs estáticos):
-
-- Skill Radar: ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg)    
-- Pochocleando: ![Top language](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) ![Last commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg)  
-- PokeApp: ![Top language](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) ![Last commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg)
+- Skill Radar: ![Lenguaje principal](./assets/badges/eliann313-SkillRadar-lang.svg) ![Último commit](./assets/badges/eliann313-SkillRadar-commit.svg)  
+- Pochocleando: ![Lenguaje principal](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) ![Último commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg)  
+- PokeApp: ![Lenguaje principal](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) ![Último commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg)
 
 ---
 
@@ -73,6 +71,5 @@ Badges por repo (SVGs estáticos):
 - 📧 Email: elian.nahuel0348@gmail.com
 
 ---
-
 
 - [![SkillRadar](https://skillradar-app.vercel.app/api/badge/eliann313)](https://skillradar-app.vercel.app/u/eliann313)
