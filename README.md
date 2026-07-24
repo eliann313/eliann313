@@ -8,7 +8,7 @@ Leer en español: [READMEES.md](./READMEES.md)
 
 # Backend Developer | Full‑Stack Developer focused on scalable APIs and modern web applications
 
-Backend developer from Argentina. Higher Technician in Software Development • B.Sc. student in Data Science. I build scalable backend systems, AI-powered developer tools and modern data-driven applications.
+Backend developer from Argentina. Higher Technician in Software Development • B.Sc. student in Data Science. I build scalable backend systems, AI-powered developer tools and modern data-driven applications. Passionate about backend development, clean architecture and continuous learning. Always open to collaborating on interesting projects and learning new technologies.
 
 ---
 
@@ -73,6 +73,5 @@ Per‑repo quick badges (static SVGs):
 
 ---
 
-Passionate about backend development, clean architecture and continuous learning. Always open to collaborating on interesting projects and learning new technologies.
 
 - [![SkillRadar](https://skillradar-app.vercel.app/api/badge/eliann313)](https://skillradar-app.vercel.app/u/eliann313)
