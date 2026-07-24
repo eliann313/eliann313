@@ -8,7 +8,7 @@ Leer en inglés: [README.md](./README.md)
 
 # Backend Developer | Full‑Stack Developer enfocado en APIs escalables y aplicaciones modernas
 
-Desarrollador backend de Argentina. Técnico Superior en Desarrollo de Software y estudiante de Licenciatura en Ciencia de datos. Construyo sistemas backend escalables, herramientas de desarrollador impulsadas por IA y aplicaciones basadas en datos usando stacks modernos.
+Desarrollador backend de Argentina. Técnico Superior en Desarrollo de Software y estudiante de Licenciatura en Ciencia de datos. Construyo sistemas backend escalables, herramientas de desarrollador impulsadas por IA y aplicaciones basadas en datos usando stacks modernos. Apasionado por el desarrollo backend, la arquitectura limpia y el aprendizaje continuo. Abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.
 
 ---
 
@@ -74,6 +74,5 @@ Badges por repo (SVGs estáticos):
 
 ---
 
-Apasionado por el desarrollo backend, la arquitectura limpia y el aprendizaje continuo. Abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.
 
 - [![SkillRadar](https://skillradar-app.vercel.app/api/badge/eliann313)](https://skillradar-app.vercel.app/u/eliann313)
