@@ -25,9 +25,9 @@ Backend Development · Full-Stack Development · AI-Powered Developer Tools · D
   - Tech: Next.js 16, TypeScript, next-intl, secure multi‑provider LLM integrations (Gemini, OpenAI, Claude, Groq)  
   - Repo: https://github.com/eliann313/SkillRadar
 
-- **Proyecto Inmuebles** — Full‑Stack Developer  
+- **Prop²** — Full‑Stack Developer  
   - Currently under active planning (architecture & specs). Planning phase.  
-  - Repo: https://github.com/eliann313/ProyectoInmuebles
+  - Repo: https://github.com/eliann313/Prop2
 
 - **GridHub WMS (private)** — Full‑Stack Developer
   - Commercial warehouse management MVP. Focused on backend architecture, offline synchronization and automated testing.  
