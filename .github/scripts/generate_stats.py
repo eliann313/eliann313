@@ -1,16 +1,17 @@
 import os
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 TOKEN = os.environ.get('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {}
 
 REPOS = [
-    ('eliann313','SkillRadar'),
-    ('Juamp1Sch','WMS'),
-    ('Antonio-sharp-plus','Pochocleando'),
-    ('bunicodea','proyecto-pokedex'),
-    ('eliann313','ProyectoInmuebles'),
+    ('eliann313', 'SkillRadar'),
+    ('eliann313', 'DataForge'),
+    ('eliann313', 'Prop2'),
+    ('eliann313', 'mi-portfolio'),
+    ('Antonio-sharp-plus', 'Pochocleando'),
+    ('bunicodea', 'proyecto-pokedex'),
 ]
 
 OUT = []
@@ -100,7 +101,7 @@ for owner, repo in REPOS:
 # Write STATS.md
 lines = [
     '# Generated repo stats',
-    f'Updated: {datetime.utcnow().date().isoformat()}',
+    f'Updated: {datetime.now(timezone.utc).date().isoformat()}',
     '',
     '| Repo | Top language | Last commit |',
     '|---|---:|---|',
