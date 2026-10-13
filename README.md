@@ -53,9 +53,9 @@ Specialized in scalable backend APIs, resilient architectural patterns, relation
 - **Tech Stack:** Next.js 16, TypeScript, React 19, PostgreSQL, Auth.js v5, Tailwind CSS, Cloudinary.
 - **Links:** [Repository](https://github.com/eliann313/Prop2)
 
-### [Engineering Portfolio](https://github.com/eliann313/mi-portfolio) — Interactive Engineering Showcase
+### [Personal Portfolio](https://github.com/eliann313/mi-portfolio) — Interactive Showcase
 - **Role:** Creator & Developer
-- **Description:** Interactive portfolio demonstrating architectural decisions, technical trade-offs, and interactive visual tooling.
+- **Description:** Interactive personal portfolio demonstrating architectural decisions, technical trade-offs, and interactive visual tooling.
 - **Key Features:** Interactive C4 system architecture diagrams, interactive relational database ERD inspector & canvas with zero-scroll slide-over drawers, technical rationale deep-dives, and bilingual i18n support.
 - **Tech Stack:** React 19, TypeScript, Vite, Tailwind CSS, Framer Motion.
 - **Links:** [Repository](https://github.com/eliann313/mi-portfolio) | [Live Portfolio](https://elian-nahuel-portfolio.vercel.app/)
@@ -82,7 +82,7 @@ Specialized in scalable backend APIs, resilient architectural patterns, relation
 | **GridHub WMS** | ![Top language](./assets/badges/Juamp1Sch-WMS-lang.svg) | ![Last commit](./assets/badges/Juamp1Sch-WMS-commit.svg) |
 | **DataForge** | ![Top language](./assets/badges/eliann313-DataForge-lang.svg) | ![Last commit](./assets/badges/eliann313-DataForge-commit.svg) |
 | **Prop²** | ![Top language](./assets/badges/eliann313-Prop2-lang.svg) | ![Last commit](./assets/badges/eliann313-Prop2-commit.svg) |
-| **Engineering Portfolio** | ![Top language](./assets/badges/eliann313-mi-portfolio-lang.svg) | ![Last commit](./assets/badges/eliann313-mi-portfolio-commit.svg) |
+| **Personal Portfolio** | ![Top language](./assets/badges/eliann313-mi-portfolio-lang.svg) | ![Last commit](./assets/badges/eliann313-mi-portfolio-commit.svg) |
 | **Pochocleando** | ![Top language](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) | ![Last commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg) |
 | **PokeApp** | ![Top language](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) | ![Last commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg) |
 

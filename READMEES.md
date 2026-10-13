@@ -53,9 +53,9 @@ Especializado en APIs backend escalables, patrones de arquitectura resilientes, 
 - **Stack Tecnológico:** Next.js 16, TypeScript, React 19, PostgreSQL, Auth.js v5, Tailwind CSS, Cloudinary.
 - **Enlaces:** [Repositorio](https://github.com/eliann313/Prop2)
 
-### [Portfolio de Ingeniería](https://github.com/eliann313/mi-portfolio) — Showcase Técnico Interactivo
+### [Portfolio Personal](https://github.com/eliann313/mi-portfolio) — Showcase Técnico Interactivo
 - **Rol:** Creador y Desarrollador Principal
-- **Descripción:** Portfolio interactivo de ingeniería que documenta y visualiza decisiones de diseño, compensaciones arquitectónicas (*trade-offs*) y herramientas técnicas visuales.
+- **Descripción:** Portfolio personal interactivo que documenta y visualiza decisiones de diseño, compensaciones arquitectónicas (*trade-offs*) y herramientas técnicas visuales.
 - **Características Clave:** Diagramas de arquitectura C4 interactivos, explorador relacional e inspector de canvas ERD con panel deslizable (*slide-over drawer*) de cero scroll, bitácoras de decisiones arquitectónicas y soporte bilingüe (i18n).
 - **Stack Tecnológico:** React 19, TypeScript, Vite, Tailwind CSS, Framer Motion.
 - **Enlaces:** [Repositorio](https://github.com/eliann313/mi-portfolio) | [Portfolio en Vivo](https://elian-nahuel-portfolio.vercel.app/)
@@ -82,7 +82,7 @@ Especializado en APIs backend escalables, patrones de arquitectura resilientes, 
 | **GridHub WMS** | ![Lenguaje principal](./assets/badges/Juamp1Sch-WMS-lang.svg) | ![Último commit](./assets/badges/Juamp1Sch-WMS-commit.svg) |
 | **DataForge** | ![Lenguaje principal](./assets/badges/eliann313-DataForge-lang.svg) | ![Último commit](./assets/badges/eliann313-DataForge-commit.svg) |
 | **Prop²** | ![Lenguaje principal](./assets/badges/eliann313-Prop2-lang.svg) | ![Último commit](./assets/badges/eliann313-Prop2-commit.svg) |
-| **Portfolio de Ingeniería** | ![Lenguaje principal](./assets/badges/eliann313-mi-portfolio-lang.svg) | ![Último commit](./assets/badges/eliann313-mi-portfolio-commit.svg) |
+| **Portfolio Personal** | ![Lenguaje principal](./assets/badges/eliann313-mi-portfolio-lang.svg) | ![Último commit](./assets/badges/eliann313-mi-portfolio-commit.svg) |
 | **Pochocleando** | ![Lenguaje principal](./assets/badges/Antonio-sharp-plus-Pochocleando-lang.svg) | ![Último commit](./assets/badges/Antonio-sharp-plus-Pochocleando-commit.svg) |
 | **PokeApp** | ![Lenguaje principal](./assets/badges/bunicodea-proyecto-pokedex-lang.svg) | ![Último commit](./assets/badges/bunicodea-proyecto-pokedex-commit.svg) |
 
