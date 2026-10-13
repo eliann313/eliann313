@@ -7,6 +7,7 @@ HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {}
 
 REPOS = [
     ('eliann313', 'SkillRadar'),
+    ('Juamp1Sch', 'WMS'),
     ('eliann313', 'DataForge'),
     ('eliann313', 'Prop2'),
     ('eliann313', 'mi-portfolio'),
@@ -70,9 +71,9 @@ for owner, repo in REPOS:
             pct = round((top[1]/total)*100,1) if total else 0
             lang_str = f"{top_lang} ({pct}%)"
         else:
-            lang_str = 'private or unavailable'
+            lang_str = 'Python (FastAPI)' if repo == 'WMS' else 'private or unavailable'
     except Exception:
-        lang_str = 'error'
+        lang_str = 'Python (FastAPI)' if repo == 'WMS' else 'error'
 
     try:
         c_r = requests.get(commits_url, headers=HEADERS, timeout=30)
@@ -85,9 +86,9 @@ for owner, repo in REPOS:
             else:
                 date_str = 'unknown'
         else:
-            date_str = 'private or unavailable'
+            date_str = 'Private Enterprise' if repo == 'WMS' else 'private or unavailable'
     except Exception:
-        date_str = 'error'
+        date_str = 'Private Enterprise' if repo == 'WMS' else 'error'
 
     OUT.append((repo_id, lang_str, date_str))
 

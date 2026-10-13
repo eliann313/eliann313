@@ -7,7 +7,7 @@ Leer en español: [READMEES.md](./READMEES.md)
 
 # Backend Developer | Full-Stack Developer
 
-Backend & Full-Stack Developer from Argentina. **Higher Technician in Software Development** (*Técnico Superior en Desarrollo de Software*) and **B.Sc. student in Data Science** (*Licenciatura en Ciencia de Datos*) at **Universidad Nacional Guillermo Brown (UNAB)**.
+Backend & Full-Stack Developer from Argentina. **Higher Technician in Software Development** (*Técnico Superior en Desarrollo de Software*) and **B.Sc. student in Data Science** (*Licenciatura en Ciencia de Datos*) at **Universidad de la Ciudad de Buenos Aires (UDECI)**.
 
 Specialized in scalable backend APIs, resilient architectural patterns, relational data modeling, multi-provider LLM orchestration, and high-performance client-side data analytics.
 
@@ -79,6 +79,7 @@ Specialized in scalable backend APIs, resilient architectural patterns, relation
 | Project | Top Language | Last Activity |
 |:---|:---:|:---:|
 | **SkillRadar** | ![Top language](./assets/badges/eliann313-SkillRadar-lang.svg) | ![Last commit](./assets/badges/eliann313-SkillRadar-commit.svg) |
+| **GridHub WMS** | ![Top language](./assets/badges/Juamp1Sch-WMS-lang.svg) | ![Last commit](./assets/badges/Juamp1Sch-WMS-commit.svg) |
 | **DataForge** | ![Top language](./assets/badges/eliann313-DataForge-lang.svg) | ![Last commit](./assets/badges/eliann313-DataForge-commit.svg) |
 | **Prop²** | ![Top language](./assets/badges/eliann313-Prop2-lang.svg) | ![Last commit](./assets/badges/eliann313-Prop2-commit.svg) |
 | **Engineering Portfolio** | ![Top language](./assets/badges/eliann313-mi-portfolio-lang.svg) | ![Last commit](./assets/badges/eliann313-mi-portfolio-commit.svg) |
